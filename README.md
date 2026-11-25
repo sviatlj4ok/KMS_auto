@@ -24,6 +24,4 @@ Project 2016<br>
 `powershell -command "iwr -useb https://raw.githubusercontent.com/mudachyo/kotanoffActivator/main/kotanoffActivator.ps1 | iex"` <br>
 Далее выберите приложение, которое вам нужно активировать из удобного интерфейса. И все! <br>
 
-![Скриншот активатора](путь к изображению) <br>
-![Скриншот результата](путь к изображению) 
 
